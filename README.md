@@ -13,7 +13,7 @@ How: My system discovery in Chinese: "From Shaghnan"
 It is to say Migration directed towards the Sariqoli in North East China. 
 The how did I develop this action?  Is why implementing TryLike "Prjoect 1" is credible. 
 
-Why: Without Persian or Arab for Afghanistan we can implement the missing link as a alternative application. 
+Why: Without Persian, Arab or Turk for Afghanistan we can implement the missing link here as a alternative application. 
 Other: Nuclear DNA is Ladakh, India - China to Kazan Russia?  Why guess?  The allele is stripped being too old, 
 or lost its traction!  Besides, my medical evidence supports the "hard ear wax" found in the Peking man, not European Arab or Persian.
 
