@@ -1,7 +1,4 @@
-### Hi there 👋
-In the hardened world we hear words like "Yukue Fumei" then learn about its meaning.  Overall it tells you something.  When including phrases "He has Sanahe" "Baby's Mama" or "Baby Mahua" it becomes very obvious that it tells us something.  When researching about Dad - the answer?  "Jiahu 7000 B.C."  Wow!  He's a old man!  
-
-This short Demo In Genetics isn't best described in my own case but with others. 
+### 
 
 Demo for TryLike "Project 1":  
 
