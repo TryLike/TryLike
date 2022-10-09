@@ -1,32 +1,17 @@
 ### 
+Using languages for a person who attains little information on their family origin is why this will be a difficult project to complete.  Yet, since 2014 I know it does help with a variety of information and in a System Build it could be a benetit.  I know it works easily for European ancestery and so part of that information could be accessed within 1 - 2 years on a simple workbench on a website.  
 
-Demo for TryLike "Project 1":  
+Good Issues:  European people for centuries have enjoyed the luxury of well founded history of their Surnames and family genetic history.  However, the true intent of trylike is to help those people enjoy the same privileges as Europeans without a 7th CE surname to claim.  It is the intention of the System Build to pull as many possible leads to a persons history as possible.  Adding search and translations, digital language libraries, and network mapping to view onsite gegraphical locations as part of redeveloping the refactor needed from the abuse of the slave trade, and/or adoptions with no real history, and Native Americans who need the additional help.
 
-Begin: The Shughnan High Pamirs.  
-Problem: Genetics can't verify accurately the timeline.  
-Solution: Discovering migration with TryLike "Project 1"
+This project is intended to provide insight to a person's historical surname history.  A combined effort to upgrade the system build for Genetic Surname list will be part of the selector for clients who choose to add that option.  It's highly recommended to test in your  country of choice.  Getting your Genetic evidence out of the country to a secured location is the clients own responsibility.  We will NOT mail color envelopes for you to swab for any type of testing, and if you purchase that option to test we are not responsible for the product, testing, or admixture found on any of the buccal swabs used for DNA testing and results.
 
-How: My system discovery in Chinese: "From Shaghnan" 
-It is to say Migration directed towards the Sariqoli in North East China. 
-The how did I develop this action?  Is why implementing TryLike "Project 1" is credible. 
+Any issues are cloned to trilike.  This repository is reserved for when the project is completed and fully polished for business.  Please see trilike responsitory for problems, errors, bug fixes git add, commits, and push.
 
-Why: Without Persian, Arab or Turk for Afghanistan we can implement the missing link here as a alternative application. 
-Other: Nuclear DNA is Ladakh, India - China to Kazan Russia?  Why guess?  The allele is stripped being too old, 
-or lost its traction!  Besides, my medical evidence supports the "hard ear wax" found in the Peking man, not European Arab or Persian.
+I must admit the Tech world is not easy.  A past problem with people can cause this project to have several problems, but since I passed my Python class the project has become more than buggy, its been at times a harassing non stop issue.  Therefore the more people who contribute to Languages helping people, the more likely it will be a success!  Just keep it positive and NOT positively inmature.
 
-TryLike "Project 1" combines a 50 volumn library as a missing link between Genetic Distribution versus egocentric interests.  This dubious success is no mistake! 
 
-The work ahead is like this:  Its fully understood that an advanced civilization exits!  Its not appreciated to use 1980's code language as a move forward.  Ouch!  I'm not flattering myself - its yuck!
+Here are some ideas to get you started
 
-About programming Project 1: Currently learning code language.  Projects here require employed developers.
-
-End
-<!--
-**TryLike/TryLike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Firebase
 - 🌱 I’m currently learning C++, Python, Complete Web Development, and more!
 - 👯 I’m looking to collaborate on Hosting Projects
 - 🤔 I’m looking for help with Business Opportunities
