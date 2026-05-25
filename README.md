@@ -1,4 +1,9 @@
 ### 
+
+<img width="1600" height="1190" alt="UC-53b538b3-3478-491d-a7e6-9479c39f4c2c" src="https://github.com/user-attachments/assets/b9e66e13-e5d3-4e28-b927-1d34c75d5deb" />
+
+
+
 Using languages for a person who attains little information on their family origin is why this will be a difficult project to complete.  Yet, since 2014 I know it does help with a variety of information and in a System Build it could be a benetit.  I know it works easily for European ancestery and so part of that information could be accessed within 1 - 2 years on a simple workbench on a website.  
 
 Good Issues:  European people for centuries have enjoyed the luxury of well founded history of their Surnames and family genetic history.  However, the true intent of trylike is to help those people enjoy the same privileges as Europeans without a 7th CE surname to claim.  It is the intention of the System Build to pull as many possible leads to a persons history as possible.  Adding search and translations, digital language libraries, and network mapping to view onsite gegraphical locations as part of redeveloping the refactor needed from the abuse of the slave trade, and/or adoptions with no real history, and Native Americans who need the additional help.
